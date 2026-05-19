@@ -1,6 +1,7 @@
 # Hey, I'm Jose Valbuena 👋
 
-**Aspiring Data Analyst** based in Bogotá, Colombia 🇨🇴
+**Data Analyst | SQL, Python, Power BI, AI | Commercial Analytics
+** based in Bogotá, Colombia 🇨🇴
 
 I'm learning data analytics in public — building real projects with real data to develop my skills and share my journey.
 
